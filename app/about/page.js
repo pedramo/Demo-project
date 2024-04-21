@@ -1,5 +1,8 @@
 export default function page() {
-    return (
-        <p>Hello</p>
-    )
+  return (
+    <div>
+      <p>Hello2</p>
+      <h1>hello3</h1>
+    </div>
+  );
 }
